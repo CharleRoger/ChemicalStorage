@@ -1,7 +1,7 @@
 ![header.png](https://raw.githubusercontent.com/CharleRoger/ImmersiveChemicalStorage/main/header.png)
 
 # Immersive Chemical Storage
-A set of highly configurable tanks for storing single chemicals. This mod can be thought of as an extension of CryoTanks, though it can be used without it, and is intended to be paired with other mods which make use of the supported chemicals.
+A set of highly configurable tanks for storing single chemicals. This mod can be thought of as an extension of CryoTanks and is intended to be paired with other mods which make use of the supported chemicals.
 
 ## Features
 Immersive Chemicals considers three types of liquid resource:
