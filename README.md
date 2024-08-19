@@ -34,4 +34,6 @@ CryoTanks' spherical tanks natively have slightly higher volumes than the should
 - [CryoTanks (1.6.6)](https://github.com/post-kerbin-mining-corporation/CryoTanks)
 
 ## License
-Distributed under the GNU General Public License.
+The art assets in this mod are distributed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
+Everything else is distributed under the GNU General Public License.
