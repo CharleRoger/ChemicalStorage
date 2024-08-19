@@ -1,0 +1,34 @@
+# 0.1.0
+- Pre-release
+- Added 2.5m configurable cylindrical chemical tanks:
+  - "CT-2B 2.5m Basic Chemical Tank"
+  - "CT-2H 2.5m Heavy-duty Cryogenic Chemical Tank"
+  - "CT-2L 2.5m Lightweight Cryogenic Chemical Tank"
+- Added 3.75m configurable cylindrical chemical tanks:
+  - "CT-3B 3.75m Basic Chemical Tank"
+  - "CT-3H 3.75m Heavy-duty Cryogenic Chemical Tank"
+  - "CT-3L 3.75m Lightweight Cryogenic Chemical Tank"
+- Added length switch to tanks.
+- Added model switch to tanks.
+- Added surface switch to tanks.
+- Added stock and storable tank types to basic chemical tank fuel switch:
+  - LiquidFuel (requires absence of Immersive Chemical Propulsion)
+  - Oxidizer (requires absence of Immersive Chemical Propulsion)
+  - MonoPropellant (requires absence of Immersive Chemical Propulsion)
+  - LqdAmmonia
+  - LqdCO
+  - Kerosene
+  - Hydrazine
+  - NTO
+  - Pentaborane
+  - Water
+- Added cryogenic tank types to heavy-duty and lightweight cryogenic tank fuel switch:
+  - LqdCO2
+  - Diborane (requires presence of Immersive Chemical Exotics)
+  - LqdFluorine (requires presence of Immersive Chemical Exotics)
+  - LqdHydrogen
+  - LqdMethane
+  - LqdNitrogen
+  - LqdOxygen
+- Assigned tank types to native parts and CryoTanks parts.
+- Patched CryoTanks spherical tank volumes to their realistic values.
