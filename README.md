@@ -27,7 +27,7 @@ Each tank has a fixed diameter with several configurable lengths and model and t
 ### Required
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
 - [B9PartSwitch (2.20.0)](https://github.com/blowfishpro/B9PartSwitch)
-- [Immersive Chemical Core (0.1.1)](https://github.com/CharleRoger/ImmersiveChemicalCore)
+- [Immersive Chemical Core (0.3.1)](https://github.com/CharleRoger/ImmersiveChemicalCore)
 - [CryoTanks (1.6.6)](https://github.com/post-kerbin-mining-corporation/CryoTanks)
 
 ## License
