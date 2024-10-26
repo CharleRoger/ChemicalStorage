@@ -1,3 +1,9 @@
+# 0.1.1
+- Fixed missing topology on 2.5m dome long tube mesh
+- Simplified truss models for 2.5m and 3.75m cryo tanks
+- Removed patches messing with CryoTanks parts
+- Reordered basic tank surface switches
+- Minor texture improvements
 # 0.1.0
 - Pre-release
 - Added 2.5m configurable cylindrical chemical tanks:
