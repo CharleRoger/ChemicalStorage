@@ -23,14 +23,11 @@ Each tank has a fixed diameter with several configurable lengths and model and t
 - "CT-3H 3.75m Heavy-duty Chemical Tank"
 - "CT-3L 3.75m Lightweight Chemical Tank"
 
-### CryoTanks changes
-CryoTanks' spherical tanks natively have slightly higher volumes than the should (or in the case of the smallest one, slightly lower). This mod sets these tanks to their realistic volume, which doesn't really affect gameplay noticeably.
-
 ## Dependencies
 ### Required
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
 - [B9PartSwitch (2.20.0)](https://github.com/blowfishpro/B9PartSwitch)
-- [Immersive Chemical Core (0.1.0)](https://github.com/CharleRoger/ImmersiveChemicalCore)
+- [Immersive Chemical Core (0.1.1)](https://github.com/CharleRoger/ImmersiveChemicalCore)
 - [CryoTanks (1.6.6)](https://github.com/post-kerbin-mining-corporation/CryoTanks)
 
 ## License
