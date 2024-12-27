@@ -31,7 +31,7 @@ Each tank has a fixed diameter with several configurable lengths and model and t
 - [CryoTanks (1.6.6)](https://github.com/post-kerbin-mining-corporation/CryoTanks)
 
 ## Compatibility
-Backwards compatibility is not supported for any v0.x, use at your own risk. If you find any other mod to be incompatible with this one, please let me know via a github issue.
+Backwards compatibility is not guaranteed for any v0.x, use at your own risk. If you find any other mod to be incompatible with this one, please let me know via a github issue.
 
 ## License
 The art assets in this mod are distributed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
