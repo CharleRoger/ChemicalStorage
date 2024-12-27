@@ -1,3 +1,6 @@
+# 0.2.0
+- Renamed from "Immersive Chemical Storage" to "Chemical Storage"
+- Consolidated texture variants into two B9 part switches, one controlling the "material" (normal texture) and another controlling the "paint" (colour texture), with unique material properties when unpainted
 # 0.1.1
 - Fixed missing topology on 2.5m dome long tube mesh
 - Simplified truss models for 2.5m and 3.75m cryo tanks
@@ -18,9 +21,9 @@
 - Added model switch to tanks.
 - Added surface switch to tanks.
 - Added stock and storable tank types to basic chemical tank fuel switch:
-  - LiquidFuel (requires absence of Immersive Chemical Propulsion)
-  - Oxidizer (requires absence of Immersive Chemical Propulsion)
-  - MonoPropellant (requires absence of Immersive Chemical Propulsion)
+  - LiquidFuel
+  - Oxidizer
+  - MonoPropellant
   - LqdAmmonia
   - LqdCO
   - Kerosene
@@ -30,8 +33,8 @@
   - Water
 - Added cryogenic tank types to heavy-duty and lightweight cryogenic tank fuel switch:
   - LqdCO2
-  - Diborane (requires presence of Immersive Chemical Exotics)
-  - LqdFluorine (requires presence of Immersive Chemical Exotics)
+  - Diborane
+  - LqdFluorine
   - LqdHydrogen
   - LqdMethane
   - LqdNitrogen
