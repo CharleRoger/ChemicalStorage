@@ -23,6 +23,12 @@ Each tank has a fixed diameter with several configurable lengths and model and t
 - "CT-3H 3.75m Heavy-duty Chemical Tank"
 - "CT-3L 3.75m Lightweight Chemical Tank"
 
+### Planned
+- 5m, 7.5m and 10m tanks
+- Spherical tanks at double diameters
+- More intelligent CryoTanks integration which should make the separate tank types unnecessary
+- More interesting textures
+
 ## Dependencies
 ### Required
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
