@@ -1,3 +1,10 @@
+# 0.3.0
+- Added 5m configurable cylindrical chemical tanks:
+  - "CT-4B 5m Basic Chemical Tank"
+  - "CT-4H 5m Heavy-duty Cryogenic Chemical Tank"
+  - "CT-4L 5m Lightweight Cryogenic Chemical Tank"
+- Added VABOrganizer support
+- Fixed 3.75m bulkhead profile sizes
 # 0.2.0
 - Renamed from "Immersive Chemical Storage" to "Chemical Storage"
 - Consolidated texture variants into two B9 part switches, one controlling the "material" (normal texture) and another controlling the "paint" (colour texture), with unique material properties when unpainted
