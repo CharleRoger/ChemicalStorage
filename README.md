@@ -22,9 +22,12 @@ Each tank has a fixed diameter with several configurable lengths and model and t
 - "CT-3B 3.75m Basic Chemical Tank"
 - "CT-3H 3.75m Heavy-duty Chemical Tank"
 - "CT-3L 3.75m Lightweight Chemical Tank"
+- "CT-4B 5m Basic Chemical Tank"
+- "CT-4H 5m Heavy-duty Chemical Tank"
+- "CT-4L 5m Lightweight Chemical Tank"
 
 ### Planned
-- 5m, 7.5m and 10m tanks
+- 7.5m and 10m tanks
 - Spherical tanks at double diameters
 - More intelligent CryoTanks integration which should make the separate tank types unnecessary
 - More interesting textures
@@ -35,6 +38,8 @@ Each tank has a fixed diameter with several configurable lengths and model and t
 - [B9PartSwitch (2.20.0)](https://github.com/blowfishpro/B9PartSwitch)
 - [Chemical Core (0.4.0)](https://github.com/CharleRoger/ChemicalCore)
 - [CryoTanks (1.6.6)](https://github.com/post-kerbin-mining-corporation/CryoTanks)
+### Supported
+- [VABOrganizer 1.0.1](https://github.com/post-kerbin-mining-corporation/VABOrganizer)
 
 ## Compatibility
 Backwards compatibility is not guaranteed for any v0.x, use at your own risk. If you find any other mod to be incompatible with this one, please let me know via a github issue.
