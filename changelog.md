@@ -5,6 +5,7 @@
   - "CT-4L 5m Lightweight Cryogenic Chemical Tank"
 - Added VABOrganizer support
 - Fixed 3.75m bulkhead profile sizes
+- Adjusted the position and appearance of "Ground horizontal" base models on 3.75m tanks
 # 0.2.0
 - Renamed from "Immersive Chemical Storage" to "Chemical Storage"
 - Consolidated texture variants into two B9 part switches, one controlling the "material" (normal texture) and another controlling the "paint" (colour texture), with unique material properties when unpainted
