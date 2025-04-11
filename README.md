@@ -4,10 +4,9 @@
 A set of highly configurable tanks for storing single chemicals. This mod can be thought of as an extension of CryoTanks and is intended to be paired with other mods which make use of the supported chemicals.
 
 ## Features
-Chemical Technologies considers three types of liquid resource:
-- **Stock**: LiquidFuel, Oxidizer, MonoPropellant.
-- **Storable** (at ambient temperature, including condensed gases under pressure): LqdAmmonia, LqdCO2, Kerosene, Hydrazine, NTO, Pentaborane, Water.
-- **Cryogenic** (configured with CryoTanks boiloff): LqdCO, Diborane, LqdFluorine, LqdHydrogen, LqdMethane, LqdNitrogen, LqdOxygen.
+Chemical Technologies considers two types of liquid resource:
+- **Storable** (at ambient temperature, including condensed gases under pressure): LqdAmmonia, LqdCO2, Kerosene, Hydrazine, NTO, Water.
+- **Cryogenic** (configured with CryoTanks boiloff): LqdCO, LqdHydrogen, LqdMethane, LqdNitrogen, LqdOxygen.
 
 This mod provides three types of tank which store different chemicals in different ways:
 - **Basic**: Plain old tanks, stores stock chemicals if Chemical Propulsion is not installed and storable chemicals depending which other mods are installed.
