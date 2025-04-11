@@ -1,3 +1,5 @@
+# 0.4.0
+- Removed exotic propellants (Diborane, Pentaborane, LqdFluorine, N2F4) which are now implemented solely by Chemical Exotics
 # 0.3.0
 - Added 5m configurable cylindrical chemical tanks:
   - "CT-4B 5m Basic Chemical Tank"
