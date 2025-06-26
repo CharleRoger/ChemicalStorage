@@ -1,14 +1,14 @@
 ![header.png](https://raw.githubusercontent.com/CharleRoger/ChemicalStorage/main/header.png)
 
 # Chemical Storage
-A set of highly configurable tanks for storing single chemicals. This mod can be thought of as an extension of CryoTanks and is intended to be paired with other mods which make use of the supported chemicals.
+A set of highly configurable tanks for storing single chemicals. This mod can be thought of as an extension of CryoTanks and is intended to be paired with other mods which make use of chemical systems.
 
 ## Features
 Chemical Technologies considers two types of liquid resource:
-- **Storable** (at ambient temperature, including condensed gases under pressure): LqdAmmonia, LqdCO2, Kerosene, Hydrazine, NTO, Water.
-- **Cryogenic** (configured with CryoTanks boiloff): LqdCO, LqdHydrogen, LqdMethane, LqdNitrogen, LqdOxygen.
+- **Storable** at ambient temperature, including condensed gases under pressure
+- **Cryogenic** configured with CryoTanks boiloff
 
-This mod provides three types of tank which store different chemicals in different ways:
+Three types of tank are provided which store different chemicals in different ways:
 - **Basic**: Plain old tanks, stores stock chemicals if Chemical Propulsion is not installed and storable chemicals depending which other mods are installed.
 - **Heavy-duty Cryogenic**: Stores cryogenic chemicals in heavy tanks with very low boiloff rates and cheap boiloff prevention, intended for storing chemicals long-term on orbit or the ground.
 - **Lightweight Cryogenic**: Stores cryogenic chemicals in mass-optimised lightweight tanks, equivalent to those provided by CryoTanks.
@@ -26,7 +26,7 @@ Each tank has a fixed diameter with several configurable lengths and model and t
 - "CT-4L 5m Lightweight Chemical Tank"
 
 ### Planned
-- 7.5m and 10m tanks
+- 1.25m, 7.5m and 10m tanks
 - Spherical tanks at double diameters
 - More intelligent CryoTanks integration which should make the separate tank types unnecessary
 - More interesting textures
@@ -35,7 +35,7 @@ Each tank has a fixed diameter with several configurable lengths and model and t
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
 - [B9PartSwitch (2.20.0)](https://github.com/blowfishpro/B9PartSwitch)
 - [Community Resource Pack (112.0.1)](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
-- [Chemical Core (0.5.0)](https://github.com/CharleRoger/ChemicalCore)
+- [Chemical Core (1.1.0)](https://github.com/CharleRoger/ChemicalCore)
 - [CryoTanks (1.6.6)](https://github.com/post-kerbin-mining-corporation/CryoTanks)
 
 ## Compatibility
