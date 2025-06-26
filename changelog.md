@@ -1,3 +1,5 @@
+# 0.4.1
+- Fixed cryo tank foil material shininess
 # 0.4.0
 - Removed most resources from tanks, leaving the following default profiles:
   - Basic tanks: LiquidFuel, Oxidizer, MonoPropellant
